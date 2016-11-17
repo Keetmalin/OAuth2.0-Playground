@@ -2,13 +2,6 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
-    <!--parent>
-        <groupId>org.wso2.identity</groupId>
-        <artifactId>wso2is-identity-samples-oauth2</artifactId>
-        <version>5.0.0</version>
-        <relativePath>../pom.xml</relativePath>
-    </parent-->
-
     <groupId>org.wso2.identity</groupId>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>playground2</artifactId>
