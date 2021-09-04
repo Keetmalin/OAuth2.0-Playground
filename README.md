@@ -1,4 +1,4 @@
-# OAuth2.0-Playground
+# WSO2 OAuth2.0-Playground
 
 The OAuth2.0- Playground app is a sample application that can be used to Simulate and Test the OpenID Connect flow using any Identity Provider that suits our requirement. The Authorization of this application can be done via the IDP itself whereas it uses OAuth2.0 as the protocol.
 
